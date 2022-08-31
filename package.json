@@ -1,5 +1,5 @@
 {
-  "name": "@biswap/uikit",
+  "name": "@front/uikit",
   "version": "0.63.1",
   "description": "Set of UI components for Biswap projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/biswapcom/biswap-front-uikit",
+  "repository": "https://github.com/blockui/front-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
